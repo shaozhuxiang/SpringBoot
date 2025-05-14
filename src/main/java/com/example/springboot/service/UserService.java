@@ -24,7 +24,7 @@ public class UserService {
     }
 
     public List<User> getAllUsers() {
-        logger.info("Fetching all usershahahha");
+        logger.info("Fetching all usershah1111111111sahha");
         return userRepository.findAll();
     }
 
